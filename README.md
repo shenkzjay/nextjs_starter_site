@@ -1,1 +1,1 @@
-### A next js starter template ###
+### A next js starter site ###
